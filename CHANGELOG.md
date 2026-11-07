@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## [1.1.2] - 2026-11-08
+### Fixed
+- search_by_title không phân biệt hoa thường
+
+## [1.1.1] - 2026-11-08
+### Note
+- Tag v1.1.1 được gắn trước khi bản sửa vào release; dùng 1.1.2
+
 ## [1.1.0] - 2026-11-07
 ### Added
 - Cart.sort_by_title(), Cart.sort_by_cost()
