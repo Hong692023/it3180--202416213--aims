@@ -24,3 +24,6 @@ class Cart:
         for i, d in enumerate(self.items, 1):
             print(f"{i}. {d.title} - {d.cost}")
         print(f"Total cost: {self.total_cost():.2f} $")
+
+    def total_cost_with_discount(self, percent):
+        return self.total_cost() * percent / 100
