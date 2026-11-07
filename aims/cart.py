@@ -10,7 +10,9 @@ class Cart:
             print("The cart is almost full")
             return False
         self.items.append(dvd)
-        print(f"The disc '{dvd.title}' has been added")
+        
+        print("Đã thêm đĩa vào giỏ hàng")
+
         return True
 
     def total_cost(self):
