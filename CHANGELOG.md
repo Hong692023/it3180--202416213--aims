@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-08
+### Fixed
+- search_by_title không phân biệt hoa thường
+
 ## [1.0.0] - 2026-11-07
 ### Added
 - Cart.print_cart(), search_by_title(), total_cost_with_discount()
