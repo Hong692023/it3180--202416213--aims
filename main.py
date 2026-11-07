@@ -1,4 +1,4 @@
-print("AIMS-mini v1.1.2")
+print("AIMS-mini v1.1.3")
 from aims.dvd import DigitalVideoDisc
 from aims.cart import Cart
 

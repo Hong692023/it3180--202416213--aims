@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.1.3] - 2026-11-08
+### Note
+- Tag v1.1.1 và v1.1.2 được gắn nhầm commit (thiếu bản sửa); 1.1.3 là bản chính thức
+
 ## [1.1.2] - 2026-11-08
 ### Fixed
 - search_by_title không phân biệt hoa thường
